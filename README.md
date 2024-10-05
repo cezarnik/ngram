@@ -1,13 +1,13 @@
-# [Telegram Desktop][telegram_desktop] – Official Messenger
+# [NGram desktop] – Unofficial Messenger
 
-This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
+This is the complete source code and the build instructions for the unofficial [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
 
 [![Version](https://badge.fury.io/gh/telegramdesktop%2Ftdesktop.svg)](https://github.com/telegramdesktop/tdesktop/releases)
 [![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/Windows./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
 [![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/MacOS./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
 [![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/Linux./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
 
-[![Preview of Telegram Desktop][preview_image]][preview_image_url]
+[![Preview of NGram][preview_image]][preview_image_url]
 
 The source code is published under GPLv3 with OpenSSL exception, the license is available [here][license].
 
